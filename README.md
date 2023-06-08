@@ -2,7 +2,7 @@
 
 # Halo semua! 
 
-Perkenalkan nama saya **Muhammad Akbar Ali Syifa**.\
+Perkenalkan nama saya **Muhammad Akbar Ali Syifa**.
 
 Saya seorang **Junior Web Developer**.\
 [Portfolio saya](https://mhmd-akbar.github.io/Portfolio/)
