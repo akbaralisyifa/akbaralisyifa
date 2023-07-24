@@ -7,7 +7,7 @@ Perkenalkan nama saya **Muhammad Akbar Ali Syifa**.
 Saya seorang **Junior Web Developer**.\
 [Portfolio saya](https://akbaralisyifa.github.io/Portfolio/)
 
-Sebagai mahasiswa Digital Bisnis, saya memiliki kemampuan untuk mengembangkan dan memelihara
-situs web menggunakan HTML, CSS, JavaScript, dan PHP dasar. Saya memahami bagaimana menggunakan
-framework seperti React untuk membuat aplikasi web yang berkualitas. Saya senang bekerja dalam tim dan
-terbuka untuk belajar dan meningkatkan keterampilan saya dalam bidang Web Development.
+My name is Muhammad Akbar Ali Syifa, and I am a Digital Business student. 
+I am an alumni of the Merdeka Campus MSIB Dicoding program batch 4 with a specialization in Front-End and Back-End Web Development. 
+I have the skills to develop and maintain websites using HTML, CSS, JavaScript and React Js. 
+I enjoy working in a team and am open to learning and improving my skills in the field of Web Development.
