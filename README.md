@@ -8,4 +8,4 @@ I have the skills to develop and maintain websites using HTML, CSS, JavaScript a
 I enjoy working in a team and am open to learning and improving my skills in the field of Web Development.
 
  **Junior Web Developer**.\
-[Portfolio saya](https://akbaralisyifa.github.io/Portfolio/)
+[Portfolio saya](https://portfolio-akbaralisyifa.vercel.app/)
