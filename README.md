@@ -8,6 +8,9 @@ As a fresh graduate, I have honed my skills as a Full Stack Developer, proficien
 Through participation in the MSIB Kampus Merdeka program and a bootcamp at Alterra Academy, I have sharpened my front-end engineering skills and developed high-performance, responsive websites. 
 This combination of formal education and practical experience equips me with a deep understanding of the needs and challenges of contemporary digital business.
 
-
- **Junior Full-stack Web Developer**.
+### Skills 🛠️
+- **Languages**:&nbsp;                         Javascript, Golang
+- **Frameworks**:  &nbsp;&nbsp;                Rect.Js, Next.Js, Echo
+- **Database**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PostgreSQL
+- **Deployment**:    &nbsp;&nbsp;&nbsp;&nbsp;  AWS, Docker
 
