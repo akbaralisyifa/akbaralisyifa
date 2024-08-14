@@ -1,6 +1,6 @@
 # akbaralisyifa
 
-# Halo semua! 
+# Hi everyone! 
 
 I am Muhammad Akbar Ali Syifa, a recent graduate from Ma'soem University with a Bachelor's degree in Computer Science specializing in Digital Business. 
 
