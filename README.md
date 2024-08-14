@@ -11,6 +11,6 @@ This combination of formal education and practical experience equips me with a d
 ### Skills 🛠️
 - **Languages**:&nbsp;                         Javascript, Golang
 - **Frameworks**:  &nbsp;&nbsp;                Rect.Js, Next.Js, Echo
-- **Database**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PostgreSQL
-- **Deployment**:    &nbsp;&nbsp;&nbsp;&nbsp;  AWS, Docker
+- **Database**: &nbsp;&nbsp;&nbsp;&nbsp; PostgreSQL
+- **Deployment**:    &nbsp;&nbsp;&nbsp;  AWS, Docker
 
