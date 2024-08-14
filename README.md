@@ -10,4 +10,4 @@ This combination of formal education and practical experience equips me with a d
 
 
  **Junior Full-stack Web Developer**.\
-[Portfolio saya](https://portfolio-akbaralisyifa.vercel.app/)
+
