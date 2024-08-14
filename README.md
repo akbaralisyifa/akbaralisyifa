@@ -9,5 +9,5 @@ Through participation in the MSIB Kampus Merdeka program and a bootcamp at Alter
 This combination of formal education and practical experience equips me with a deep understanding of the needs and challenges of contemporary digital business.
 
 
- **Junior Full-stack Web Developer**.\
+ **Junior Full-stack Web Developer**.
 
