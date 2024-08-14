@@ -18,5 +18,3 @@ This combination of formal education and practical experience equips me with a d
 
 ---
 [![](https://visitcount.itsvg.in/api?id=akbaralisyifa&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
